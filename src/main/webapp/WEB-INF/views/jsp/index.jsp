@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Hi Muralidharan Lakshmi Narayana.</h2>
-			<h3>Contact @ +91-9989438446,+91-7448752429</h3>
+			<h2>Welcome to green technology.</h2>
+			<h3>Contact @ +91-8428396405</h3>
 		</div>	
 	</div>
 
